@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShimonNavon
-- 👀 I’m interested in Flutter, IoT and machine learning
-- 🌱 I’m currently learning how to develop apps and websites with Flutter
+- 👀 I’m interested in getting a CS internship 
+- 🌱 I’m currently working on building my portfolio 
 - 💞️ I’m looking to collaborate on anything at all! 
 - 📫 How to reach me NavonSimon1@gmail.com
 
