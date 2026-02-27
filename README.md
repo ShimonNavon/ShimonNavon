@@ -1,1 +1,1 @@
-Database Administrtor 
+Database Administrator (DBA)
