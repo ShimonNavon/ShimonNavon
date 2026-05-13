@@ -15,7 +15,7 @@ This file is written as GitHub-safe HTML/Markdown.
 
   <p>
     <a href="https://github.com/YOUR_GITHUB_USERNAME">
-      <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-ShimonNavon-181717?style=for-the-badge&logo=github" alt="GitHub" />
     </a>
     <a href="mailto:navonsimon1@gmail.com">
       <img src="https://img.shields.io/badge/Email-navonsimon1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
