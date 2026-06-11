@@ -185,15 +185,6 @@ Model Providers
 
 ---
 
-<h2>GitHub stats</h2>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
-</div>
-
----
-
 <h2>Personal working style</h2>
 
 <p>
