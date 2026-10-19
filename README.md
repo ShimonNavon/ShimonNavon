@@ -52,7 +52,11 @@ The client owns the code and data. I prefer small, testable releases, clear oper
 
 ## Main tools
 
-`Python` · `Django` · `FastAPI` · `TypeScript` · `React` · `Next.js` · `PostgreSQL` · `PostGIS` · `Docker` · `Linux` · `nginx` · `GitHub Actions`
+- **Languages** — `Python` · `TypeScript` · `Go` · `Swift` · `Dart` · `Shell`
+- **Backend & data** — `Django` · `DRF` · `FastAPI` · `PostgreSQL` · `PostGIS` · `Valkey` · `Firebase`
+- **Frontend & apps** — `React` · `Next.js` · `Flutter` · `PySide6` · macOS menu bar apps
+- **AI & agents** — `Claude Code` · `MCP servers` · `Stable Diffusion` · `PyTorch (Apple MPS)`
+- **Infrastructure** — `Docker` · `Linux` · `nginx` · `GitHub Actions` · monitoring & backups
 
 ## Have a workflow or product to build?
 
